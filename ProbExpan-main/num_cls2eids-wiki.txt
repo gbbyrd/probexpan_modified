@@ -1,0 +1,24 @@
+[china_provinces]	15
+[neg china_provinces]	0
+
+[companies]	15
+[neg companies]	0
+
+[countries]	15
+[neg countries]	0
+
+[diseases]	15
+[neg diseases]	0
+
+[parties]	15
+[neg parties]	0
+
+[sportsleagues]	14
+[neg sportsleagues]	0
+
+[tv_channels]	13
+[neg tv_channels]	0
+
+[us_states]	15
+[neg us_states]	0
+
