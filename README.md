@@ -1,4 +1,7 @@
-Grayson Byrd and Jingjing Wang's modifications of the ProbExpan repository. To run the models, please first download the
+# Grayson Byrd and Jingjing Wang's modifications of the ProbExpan repository. 
+
+## Setup
+To run the models, please first download the
 custom dataset from this link: https://drive.google.com/file/d/1Fzw2EWmOb9Yn6f7RmlFIGcNIt4qYbn4G/view?usp=share_link
 
 Next, run the following commands to extract and create the dataset in the appropriate file directory structure:
