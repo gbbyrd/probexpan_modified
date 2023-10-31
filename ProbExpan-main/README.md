@@ -6,6 +6,8 @@ Pytorch Implementation for SIGIR2022 full paper "Contrastive Learning with Hard 
 #### python >= 3.7
 #### pytorch >= 1.6.0
 
+**NOTE: You can use the ldm repository found in the environment.yaml file in the official stable diffusion repository to run this code if you do not want to create your own environment**
+
 ## Data
 
 The download links of datasets used in our experiments are all public available in their original paper mentioned in Appendix B. After downloading the dataset, put them under the folder "./data/"
